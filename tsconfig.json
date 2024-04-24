@@ -15,6 +15,7 @@
         "jsx": "preserve",
         "baseUrl": "src",
         "paths": {
+            "@T/*": ["./T/*"]
         },
         "incremental": true
     },
